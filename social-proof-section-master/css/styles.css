@@ -1,0 +1,227 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+
+    margin-top: 60px;
+    margin-left: 80px;
+    background-color: hsl(0, 0%, 100%);
+    font-size: 15px;
+    width: 1440px;
+
+}
+
+html {
+    background-color: hsl(300, 24%, 96%);
+}
+a{
+    text-decoration: none;  
+}
+
+.header {
+    height: 150px;
+}
+
+.main{
+    height: 700px;
+    width: 100%;
+
+}
+
+.conten__section {
+    display: flex;
+}
+
+.column-lefs {
+    margin: 0 80px;
+    padding: 25px 50px;
+    width: 600px;
+    font-family: "League Spartan", sans-serif;
+}
+
+.column-rigth {
+    padding: 25px 50px;
+    width: 600px;
+    margin-top: 50px;
+}
+
+.title {
+    font-size: 70px;
+    font-weight: 700;
+    color: hsl(300, 43%, 22%);
+    left: 100px;
+}
+
+.text-title {
+    margin-top: 20px;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    width: 600;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.btn {
+    margin: 8px;
+    padding: 15px 50px;
+    border-radius: 10px;
+    border: 0;
+    background-color: hsl(300, 24%, 96%);
+}
+
+.btn-1 {
+    color: hsl(300, 43%, 22%);
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    left: -150px;
+    position: relative;
+}
+
+.btn-2 {
+    color: hsl(300, 43%, 22%);
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    left: -100px;
+    position: relative;
+}
+
+.btn-3 {
+    color: hsl(300, 43%, 22%);
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    left: -60px;
+    position: relative;
+}
+
+.clientes {
+    display: flex;
+    color: hsl(0, 0%, 100%);
+    position: relative;
+    margin-top: 50px;
+   
+}
+
+.colton-smith {
+    margin-top: 30px;
+    font-family: "League Spartan", sans-serif;
+    background-color: hsl(300, 43%, 22%);
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 10px;
+   
+  
+}
+.colton-smith p{
+    padding: 10px;
+    line-height: 1.5rem;
+}
+.conten-colton{
+    display: flex;
+    position: relative;   
+}
+.image-colton{
+    border-radius: 50%;
+    margin: 0 40px;
+}
+
+.title-colton{
+    padding: 10px 20px;
+    font-weight: 700;
+    font-size: large;
+}
+
+.sub-title-colton{
+    margin-top: 35px;
+    margin-left: -120px;
+    font-weight: 400;
+    color:  hsl(333, 80%, 67%);
+}
+
+
+.Irene-Roberts {
+    margin-top: 50px;
+    font-family: "League Spartan", sans-serif;
+    background-color: hsl(300, 43%, 22%);
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: -10px;
+}
+.Irene-Roberts p{
+    padding: 10px;
+    line-height: 1.5rem;
+}
+.conten-irene{
+    display: flex;
+    position: relative; 
+}
+.image-irene{
+    border-radius: 50%;
+    margin: 0 40px;
+}
+.title-irene{
+    padding: 10px 20px;
+    font-weight: 700;
+    font-size: large;
+}
+.sub-title-irene{
+    margin-top: 35px;
+    margin-left: -120px;
+    font-weight: 400;
+    color:  hsl(333, 80%, 67%);
+}
+
+.Anne-Wallace {
+    margin-top: 70px;
+    font-family: "League Spartan", sans-serif;
+    background-color: hsl(300, 43%, 22%);
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 100px;
+    margin-bottom: -25px;
+}
+.Anne-Wallace p{
+    padding: 10px;
+    line-height: 1.5rem;
+}
+
+.conten-anne{
+    display: flex;
+    position: relative;
+}
+.image-anne{
+    border-radius: 50%;
+    margin: 0 40px;
+}
+.title-anne{
+    padding: 10px 20px;
+    font-weight: 700;
+    font-size: large;
+}
+.sub-title-anne{
+    margin-top: 35px;
+    margin-left: -120px;
+    font-weight: 400;
+    color:  hsl(333, 80%, 67%);
+}
+.footer{
+    background-color: hsl(0, 0%, 100%);
+    height: 50px;
+}
+.attribution {
+    text-align: center;
+   
+}
